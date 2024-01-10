@@ -1,4 +1,4 @@
-# dice
+# Random Dice
 
 A simple Roll Dice Game developed using Flutter.
 
