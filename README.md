@@ -1,6 +1,6 @@
 # dice
 
-A new Flutter project.
+A simple Roll Dice Game developed using Flutter.
 
 ## Getting Started
 
